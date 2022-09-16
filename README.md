@@ -1,8 +1,8 @@
-## <div align='center'>Hi there! 👋, I'm Sudarsan </div>
+## <div align='center'>Hey there! 👋, I'm Sudarsan </div>
 
 <div align="center">
-<img src="https://github.com/Sudarsan-Offl/Sudarsan-Offl/blob/main/20210823_201804.png" align="center" style="width: 100%" />
-</div>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div> 
 <br>
 
 I'm an engineering student who is passionate about coding and technologies. Some technologies I enjoy working include ReactJS and JavaScript and still in the porcess of learning new technologies.
